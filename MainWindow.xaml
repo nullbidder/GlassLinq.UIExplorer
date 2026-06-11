@@ -279,7 +279,7 @@
                                  AcceptsReturn="True"
                                  TextWrapping="Wrap"
                                  VerticalScrollBarVisibility="Auto"
-                                 FontFamily="Consolas"
+                                 FontFamily="Segoe UI"
                                  FontSize="12"/>
 
                         <StackPanel Grid.Row="2" Orientation="Horizontal" 
